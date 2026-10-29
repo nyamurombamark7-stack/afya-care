@@ -46,7 +46,7 @@ Used by **Rosden Quality Care Centre - Isingiro** and ready for 100+ clinics.
 - Logo: Upload per hospital or GLOBAL - Shows on all receipts
 
 ### 🔐 Secure Login - 3 Levels
-1.  **Super Admin (You):** `marktechworld` / `markmk19` - Creates hospitals, deletes if not pay, extends license +30 days
+1.  **Super Admin : Creates hospitals, deletes if not pay, extends license +30 days
 2.  **Hospital Admin:** Creates users, sees all passwords, changes passwords, manages clinic
 3.  **Staff:** `admin`, `doctor`, `lab`, `pharmacy`, `accountant` - Duty based - Can only change own password
 
